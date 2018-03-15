@@ -14,7 +14,7 @@
         <label>Quote</label>
         <live_feed_enabled>false</live_feed_enabled>
         <name>x_24859_hsrm_quote</name>
-        <number_ref display_value="QUO">7be99ecfdb603200a0b2d100cf961909</number_ref>
+        <number_ref display_value="QTE">7be99ecfdb603200a0b2d100cf961909</number_ref>
         <provider_class/>
         <read_access>true</read_access>
         <super_class display_value="Task" name="task">6a3e5972db132200a0b2d100cf961980</super_class>
